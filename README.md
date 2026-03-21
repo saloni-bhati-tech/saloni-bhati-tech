@@ -1,3 +1,3 @@
 # 💫 About Me:
-I am a B.Tech Health Informatics student aspiring to become a Data Scientist. I am currently learning Python, Data Analytics, SQL, and Machine Learning, and building projects to strengthen my skills in data-driven problem solving.
+Aspiring AI/ML enthusiast currently building a strong foundation in Python and problem solving. Eager to learn, explore, and develop real-world projects in data science and artificial intelligence.
 
